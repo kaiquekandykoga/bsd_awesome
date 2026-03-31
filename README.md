@@ -20,3 +20,8 @@ A list of cloud providers offering BSD systems. Not all providers listed have be
 * [NetBSD](https://www.netbsd.org)
 * [NomadBSD](https://nomadbsd.org)
 * [OpenBSD](https://www.openbsd.org)
+
+## YouTube Channels
+
+* [GaryH Tech](https://www.youtube.com/@GaryHTech)
+* [RoboNuggie](https://www.youtube.com/@RoboNuggie)
