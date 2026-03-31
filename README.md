@@ -10,6 +10,10 @@ A list of cloud providers offering BSD systems. Not all providers listed have be
 * [Server Space](https://serverspace.io) → FreeBSD 14 (verified on 31 March 2026)
 * [Vultr](https://www.vultr.com) → FreeBSD 15, 14, and 13, as well as OpenBSD 7.8 and 7.7 (verified on 31 March 2026)
 
+## Sites
+
+* [vermaden](https://vermaden.wordpress.com)
+
 ## Operating Systems
 
 * [DragonFly BSD](https://www.dragonflybsd.org)
