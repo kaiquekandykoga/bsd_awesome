@@ -21,6 +21,8 @@ A list of cloud providers offering BSD systems. Not all providers listed have be
 
 ## Operating Systems
 
+ThinkPad models are generally an excellent choice for running BSD systems, but I've also had reasonably good success getting FreeBSD working on a Dell laptop
+
 * [DragonFly BSD](https://www.dragonflybsd.org)
 * [FreeBSD](https://www.freebsd.org) → Runs smoothly on VirtualBox and is beginner‑friendly
 * [GhostBSD](https://www.ghostbsd.org)
